@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A Teatro con Rolleri - Allenamento mentale per giovani portieri. Scopri la Box esclusiva per migliorare la tua mentalità e sicurezza in campo.">
+    <meta name="keywords" content="allenamento mentale portieri, come diventare un portiere più sicuro, esperienza teatrale giovani calciatori, Box per allenamento mentale portiere">
+    <meta name="author" content="A Teatro con Rolleri">
+    <title>A Teatro con Rolleri - Diventa un Portiere Monumentale</title>
+    <link rel="stylesheet" href="css/styles.css"> <!-- Collegamento al CSS -->
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon"> <!-- Icona -->
+</head>
+<body>
+    <header>
+        <section id="hero">
+            <h1>Diventa un Portiere Monumentale! 🔥</h1>
+            <p>Allenati con i Grandi e Scopri il Potere della Tua Mente!</p>
+            <a href="#cta" class="cta-button">Ordina la tua Box e Sblocca il Tuo Potenziale!</a>
+        </section>
+    </header>
+
+    <section id="about">
+        <h2>Cos'è A Teatro con Rolleri</h2>
+        <p>
+            A Teatro con Rolleri è più di un semplice allenamento: è un’esperienza unica che unisce sport, mental coaching e teatro 
+            per aiutarti a diventare il miglior portiere possibile. Un percorso esclusivo con portieri professionisti che ti aiuteranno a 
+            migliorare la tua mentalità, tecnica e motivazione.
+        </p>
+    </section>
+
+    <section id="the-box">
+        <h2>La Box Esclusiva per i Portieri del Futuro</h2>
+        <p>La Box contiene strumenti unici per migliorare mentalità e tecnica:</p>
+        <ul>
+            <li><strong>iPad con video introduttivo:</strong> scopri il metodo “A Teatro con Rolleri” direttamente dai professionisti 🎥</li>
+            <li><strong>Golden Ticket:</strong> ingresso VIP a un evento con un portiere di fama internazionale 🎟️</li>
+            <li><strong>Schedina provocatoria:</strong> una sfida mentale per stimolare la tua crescita 🧠</li>
+            <li><strong>Cartonato motivazionale:</strong> scegli chi vuoi essere e costruisci il tuo futuro da campione 🏆</li>
+        </ul>
+        <a href="#cta" class="cta-button">Prenota la tua Box ora</a>
+    </section>
+
+    <section id="video">
+        <h2>Guarda il Video Introduttivo</h2>
+        <p>Scopri come il nostro programma può aiutarti a diventare un portiere più forte mentalmente e tecnicamente.</p>
+        <video width="100%" controls>
+            <source src="videos/video_intro.mp4" type="video/mp4"> <!-- Video -->
+            Il tuo browser non supporta il formato video.
+        </video>
+    </section>
+
+    <section id="testimonials">
+        <h2>Cosa dicono i nostri clienti</h2>
+        <blockquote>
+            "Mio figlio ha scoperto una nuova sicurezza in campo grazie a questo metodo. È un’esperienza che consiglierei a tutti i giovani portieri!" – Andrea M., Genitore
+        </blockquote>
+        <blockquote>
+            "Ho imparato dai migliori come rimanere concentrato anche nei momenti più difficili. Grazie a questa esperienza, mi sento un portiere più forte!" – Luca, 14 anni
+        </blockquote>
+    </section>
+
+    <section id="cta">
+        <h2>Sei pronto a diventare un portiere monumentale?</h2>
+        <p>Ordina la tua Box oggi e accedi a un percorso esclusivo con i migliori portieri professionisti!</p>
+        <a href="order.html" class="cta-button">Prenota Ora e Ricevi un Contenuto Esclusivo Gratuito!</a>
+    </section>
+
+    <section id="faq">
+        <h2>Domande Frequenti</h2>
+        <div>
+            <strong>Chi può acquistare la Box?</strong>
+            <p>La Box è pensata per giovani portieri dai 6 ai 16 anni e i loro genitori.</p>
+        </div>
+        <div>
+            <strong>Quanto costa la Box?</strong>
+            <p>La Box ha un prezzo di XX€ e include l’accesso a contenuti esclusivi.</p>
+        </div>
+        <div>
+            <strong>Posso acquistare solo l’evento senza la Box?</strong>
+            <p>Sì! I biglietti per gli eventi sono acquistabili separatamente.</p>
+        </div>
+        <div>
+            <strong>Quanto tempo ci vuole per ricevere la Box?</strong>
+            <p>La spedizione richiede circa 5-7 giorni lavorativi.</p>
+        </div>
+    </section>
+
+    <section id="social-media">
+        <h2>Seguici sui nostri Social</h2>
+        <p>Rimani aggiornato sui nostri eventi, novità e contenuti esclusivi per giovani portieri!</p>
+        <a href="https://www.instagram.com/ateatroconrolleri" target="_blank">Instagram</a>
+        <a href="https://www.facebook.com/ateatroconrolleri" target="_blank">Facebook</a>
+        <a href="https://www.twitter.com/ateatroconrolleri" target="_blank">Twitter</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 A Teatro con Rolleri - Tutti i diritti riservati</p>
+        <p>Contatti: Via Camillo Brozzoni, 9, 25125 Brescia BS - Tel: 350 520 5325</p>
+    </footer>
+
+    <script src="js/scripts.js"></script> <!-- Collegamento al JS -->
+</body>
+</html>
