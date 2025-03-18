@@ -18,7 +18,7 @@
             <a href="#cta" class="cta-button">Ordina la tua Box e Sblocca il Tuo Potenziale!</a>
         </section>
     </header>
-
+    
     <section id="about">
         <h2>Cos'è A Teatro con Rolleri</h2>
         <p>
@@ -88,9 +88,9 @@
     <section id="social-media">
         <h2>Seguici sui nostri Social</h2>
         <p>Rimani aggiornato sui nostri eventi, novità e contenuti esclusivi per giovani portieri!</p>
-        <a href="https://www.instagram.com/ateatroconrolleri" target="_blank">Instagram</a>
-        <a href="https://www.facebook.com/ateatroconrolleri" target="_blank">Facebook</a>
-        <a href="https://www.twitter.com/ateatroconrolleri" target="_blank">Twitter</a>
+        <a href="https://www.instagram.com/ateatroconrolleri" target="_blank" rel="noopener noreferrer">Instagram</a>
+        <a href="https://www.facebook.com/ateatroconrolleri" target="_blank" rel="noopener noreferrer">Facebook</a>
+        <a href="https://www.twitter.com/ateatroconrolleri" target="_blank" rel="noopener noreferrer">Twitter</a>
     </section>
 
     <footer>
